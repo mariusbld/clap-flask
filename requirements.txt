@@ -1,0 +1,5 @@
+Flask
+torch
+torchvision
+librosa
+laion_clap @ git+https://github.com/LAION-AI/CLAP.git@8e558817d853808486768004fa1b61ac9d69f2a2
