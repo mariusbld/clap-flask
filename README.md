@@ -2,6 +2,7 @@
 
 ## Setup
 
+```
 ./scripts/download_ckpt.sh
 
 python -m venv venv
@@ -12,3 +13,4 @@ mkdir -p upload
 cp .env.example .env
 
 python app.py
+```
